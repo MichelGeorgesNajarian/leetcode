@@ -1,7 +1,7 @@
 /*
 * https://leetcode.com/problems/buddy-strings/
 * Runtime: 0 ms, faster than 100.00% of C online submissions for Buddy Strings.
-* Memory Usage: 7.1 MB, less than 100.00% of C online submissions for Buddy Strings.
+* Memory Usage: 6.9 MB, less than 100.00% of C online submissions for Buddy Strings.
 */
 
 
@@ -22,7 +22,6 @@ bool buddyStrings(char * A, char * B){
             *(numLetter + ((int) *(A + i) - (int) 'a')) += 1;
         }
         for (i = 0; i < 26; i++) {
-            printf("%c) %d\n", ((int) 'a') + i, numLetter[i]);
             if (numLetter[i] > 1) {
                 free(numLetter);
                 free(A);
