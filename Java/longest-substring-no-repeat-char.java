@@ -1,7 +1,7 @@
 /*
 * https://leetcode.com/problems/longest-substring-without-repeating-characters/
 * Runtime: 5 ms, faster than 87.38% of Java online submissions for Longest Substring Without Repeating Characters.
-* Memory Usage: 38.9 MB, less than 98.25% of Java online submissions for Longest Substring Without Repeating Characters
+* Memory Usage: 38.8 MB, less than 98.90% of Java online submissions for Longest Substring Without Repeating Characters
 */
 
 class Solution {
