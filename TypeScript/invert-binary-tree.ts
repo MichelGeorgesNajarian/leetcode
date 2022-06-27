@@ -1,6 +1,6 @@
 /**
 * https://leetcode.com/problems/invert-binary-tree/
-* Runtime: 70 ms, faster than 91.58% of TypeScript online submissions for Invert Binary Tree.
+* Runtime: 67 ms, faster than 95.49% of TypeScript online submissions for Invert Binary Tree.
 * Memory Usage: 44.3 MB, less than 87.22% of TypeScript online submissions for Invert Binary Tree.
 */
 
